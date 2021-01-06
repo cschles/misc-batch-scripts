@@ -1,0 +1,3 @@
+msg %username% Stand Up 
+
+
